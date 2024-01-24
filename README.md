@@ -16,6 +16,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=61DAFB" />
 </div><br/>
+
 ![snake gif](https://github.com/herissonhz/herissonhz/blob/output/github-contribution-grid-snake.gif)
 
 
