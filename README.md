@@ -1,10 +1,10 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500px&height=70&duration=4000&lines=olá!+👋;+me+chamo+herissonhz!;" />
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=35&color=ffffff&random=false&width=500px&height=50&lines=Olá!+👋;+me+chamo+herissonhz!)](https://git.io/typing-svg)
 </h1>
 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=herissonhz&show_icons=true&theme=vue-dark&count_private=true)
- <img align="right" height="180em"  width = "500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=herissonhz&layout=compact&langs_count=16&theme=vue-dark"/>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=herissonhz&show_icons=true&theme=dark&count_private=true)
+ 
 
 ## cursando as seguintes Tecnologias
 
@@ -17,7 +17,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/Mysql-20232A?style=for-the-badge&logo=Mysql&logoColor=61DAFB" />
 </div><br/>
 
-![snake gif](https://github.com/herissonhz/herissonhz/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
