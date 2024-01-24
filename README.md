@@ -1,9 +1,9 @@
  ## Olá! Eu sou o Whasley Herisson 🖐
 
-[![Blog](https://img.shields.io/website?label=herissonhz.com&style=for-the-badge&url=https://herissonhz.com/)](https://herissonhz.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/herissonhz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herissonhz)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/herissonhz)
+[![Blog](https://img.shields.io/website?label=herissonhz.com&style=for-the-badge&url=https://herissonhz.com/)]()
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=herissonhz&show_icons=true&theme=dark&count_private=true)
  <img align="right" height="180em"  width = "500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=herissonhz&layout=compact&langs_count=16&theme=dark"/>
